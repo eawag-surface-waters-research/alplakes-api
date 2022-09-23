@@ -1,0 +1,9 @@
+*.pyc
+__pycache
+.idea
+.DS_Store
+.env.dev
+.env.prod
+.env.prod.db
+app/env
+app/mediafiles
